@@ -1,7 +1,5 @@
 # estudo_git
 
-
-
 Passos para fazer o **pull request**:
 
 1. Faça um **fork** do projeto que vc deseja atualizar
